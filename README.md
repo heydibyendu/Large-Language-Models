@@ -1,2 +1,5 @@
-# Large-Language-Models
-Use-cases of different LLMS to showcae how these models leverage the power of attention mechanisms as well as process language data. 
+# How do different prompts influence the performance of large language models?
+
+Here I have one LLaMA2 model but tuned with different prompts and see how the outcomes vary.
+
+One is prompted as conservative and strict. Another is prompted as liberal without any restrictions and can answer the way the model wants.
